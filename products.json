@@ -1,0 +1,393 @@
+[
+    {
+        "id": 1,
+        "name": "Taste of the wild",
+        "price": 200,
+        "category": "dry food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+
+    },
+
+    
+    {
+        "id": 2,
+        "name": "royal canin 500g",
+        "price": 300,
+        "category": "dry food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+
+    },
+
+
+    {
+        "id": 3,
+        "name": "royal canin 1kg",
+        "price": 400,
+        "category": "dry food",
+        "availablity": ["tangier", "tetouan"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+
+    },
+    
+    
+    {
+        "id": 4,
+        "name": "meow mix 500g",
+        "price": 150,
+        "category": "dry food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+
+    },
+    
+    
+    {
+        "id": 5,
+        "name": "meow mix 500g",
+        "price": 150,
+        "category": "dry food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 6,
+        "name": "cat chow 1kg",
+        "price": 100,
+        "category": "dry food",
+        "availablity": ["tangier", "tetouan"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 7,
+        "name": "fancy feast,",
+        "price": 180,
+        "category": "wet food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 8,
+        "name": "tiny tiger",
+        "price": 90,
+        "category": "wet food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 9,
+        "name": "friskies",
+        "price": 100,
+        "category": "wet food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 10,
+        "name": "tiki cat",
+        "price": 90,
+        "category": "wet food",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 11,
+        "name": "meaty sticks",
+        "price": 20,
+        "category": "treats",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 12,
+        "name": "savory salmon",
+        "price": 30,
+        "category": "treats",
+        "availablity": ["tangier", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 13,
+        "name": "creamy diary",
+        "price": 15,
+        "category": "treats",
+        "availablity": ["tangier", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 14,
+        "name": "chicken chompers",
+        "price": 20,
+        "category": "treats",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 15,
+        "name": "pet food can cover",
+        "price": 200,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 16,
+        "name": "double feeder",
+        "price": 100,
+        "category": "supplies",
+        "availablity": ["tangier", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 17,
+        "name": "pet food storage",
+        "price": 199,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 18,
+        "name": "clumping clay cat litter 5kg,",
+        "price": 90,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 19,
+        "name": "standard cat litter box",
+        "price": 70,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 20,
+        "name": "covered cat litter box",
+        "price": 160,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 21,
+        "name": "cat scratching post",
+        "price": 190,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+    
+    
+    {
+        "id": 22,
+        "name": "cat tree",
+        "price": 500,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan"],
+        "provider": {
+                    "company name": "Nine Lives",
+                    "adress": "address_3"
+        }
+    
+    },
+
+
+    {
+        "id": 23,
+        "name": "outdoor kitty house",
+        "price": 600,
+        "category": "supplies",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 24,
+        "name": "bird teaser,",
+        "price": 40,
+        "category": "toys",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 25,
+        "name": "colorful strings",
+        "price": 30,
+        "category": "toys",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 26,
+        "name": "plush mice",
+        "price": 20,
+        "category": "toys",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "PuuurMeow",
+                    "adress": "address_2"
+        }
+    
+    },
+
+
+    {
+        "id": 27,
+        "name": "moppy ball",
+        "price": 18,
+        "category": "toys",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    },
+
+
+    {
+        "id": 28,
+        "name": "tri-tunnel",
+        "price": 80,
+        "category": "toys",
+        "availablity": ["tangier", "tetouan", "Asila"],
+        "provider": {
+                    "company name": "happy cat",
+                    "adress": "address_1"
+        }
+    
+    }
+
+]
