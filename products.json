@@ -4,7 +4,7 @@
         "name": "Taste of the wild",
         "price": 200,
         "category": "dry food",
-        "availablity": ["tangier", "tetouan", "Asila"],
+        "availablity": ["tangier, ", "tetouan, ", "Asila"],
         "provider": {
                     "company name": "happy cat",
                     "adress": "address_1"
@@ -32,7 +32,7 @@
         "name": "royal canin 1kg",
         "price": 400,
         "category": "dry food",
-        "availablity": ["tangier", "tetouan"],
+        "availablity": ["tangier, ", "tetouan"],
         "provider": {
                     "company name": "PuuurMeow",
                     "adress": "address_2"
