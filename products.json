@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Taste of the wild",
+        "name": "taste of the wild",
         "price": 200,
         "category": "dry food",
         "availablity": ["tangier", "tetouan", "Asila"],
