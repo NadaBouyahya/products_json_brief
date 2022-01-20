@@ -40,3 +40,11 @@ $("#mySearchBar").on("keyup", function(){
     fillTable(list_search);
     // console.log(globalData[0].name.includes(mySearchBar.value))
 })
+
+// sort table alphab
+
+// $(document).ready(function(){
+//     $(".sort_alph").on('click', function(){
+        
+//     })
+// })
