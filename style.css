@@ -1,9 +1,12 @@
-body{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+/* body{
 }
 
 table{
-    width: 50% !important;
+    /* width: 70% !important; */
+img{
+    width: 80px;
+}
+
+.table{
+    --bs-table-striped-bg : #aa43432f !important;
 }
