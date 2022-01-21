@@ -1,6 +1,7 @@
 var globalData;
-var mySearchBar = document.querySelector('#mySearchBar');
-var Tbody_content = document.querySelector('tbody')
+var $searchBar = $("#mySearchBar");
+// var mySearchBar = document.querySelector('#mySearchBar');
+// var Tbody_content = document.querySelector('tbody')
 function bringData(){
     $.get("products.json", function(data){
         console.log(data);
@@ -27,21 +28,22 @@ function fillTable(dt){
     )});
 }
 
+
 // search by name in table 
 
-$("#mySearchBar").on("keyup", function(){
+ $searchBar.on("keyup", function(){
     list_search = [];
     globalData.forEach(prod => {
         if(prod.name.includes(mySearchBar.value)){
             list_search.push(prod);
         }
     });
-    Tbody_content.innerHTML = "";
+    // Tbody_content.innerHTML = "";
+    $("#Tbody").html("");
     fillTable(list_search);
     // console.log(globalData[0].name.includes(mySearchBar.value))
 })
 
-// sort table alphab
 
 // $(document).ready(function(){
 //     $(".sort_alph").on('click', function(){
